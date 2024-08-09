@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "466247740725",
+    "firebase_url": "https://trench-warfare-1914-default-rtdb.firebaseio.com",
+    "project_id": "trench-warfare-1914",
+    "storage_bucket": "trench-warfare-1914.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466247740725:android:d521d6f34218929a42f07c",
+        "android_client_info": {
+          "package_name": "com.kocogamesinc.trenchwarfare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466247740725-9pbrskgm2dnmksc0vsu7g2ckcvbvsdbd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kocogamesinc.trenchwarfare",
+            "certificate_hash": "13781147ad32f43c08b0013f6fe4b307173db79e"
+          }
+        },
+        {
+          "client_id": "466247740725-vup0mi8k96cfarnifettstk3obr60k8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2HMWWyG4H1jAbwPu9d1OymjRMXIS5eKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466247740725-0rc8l45qpkfjr2i9sut3f438452h6eqi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "466247740725-06jobpp9dcan7riueimg5fkmek23cgum.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kocogamesinc.ios.trenchwarfare1914"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
